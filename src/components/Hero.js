@@ -227,7 +227,7 @@ export default function Hero() {
             <GithubIcon />
           </a>
           <a
-            href="https://linkedin.com/in/rahulsaini356"
+            href="https://www.linkedin.com/in/rahul-saini-041306404/"
             target="_blank"
             rel="noopener noreferrer"
             onMouseEnter={playHover}
@@ -237,7 +237,7 @@ export default function Hero() {
             <LinkedinIcon />
           </a>
           <a
-            href="mailto:rahulsaini356@gmail.com"
+            href="mailto:rahulsainirs029@gmail.com"
             onMouseEnter={playHover}
             className="p-2.5 rounded-full glass-panel hover:border-white/25 text-zinc-400 hover:text-white transition-all"
             title="Email"

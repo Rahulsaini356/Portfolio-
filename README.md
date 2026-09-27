@@ -61,7 +61,8 @@ npm run start
 
 **Rahul Saini**
 - GitHub: [@Rahulsaini356](https://github.com/Rahulsaini356)
-- Email: [rahulsaini356@gmail.com](mailto:rahulsaini356@gmail.com)
+- LinkedIn: [Rahul Saini](https://www.linkedin.com/in/rahul-saini-041306404/)
+- Email: [rahulsainirs029@gmail.com](mailto:rahulsainirs029@gmail.com)
 
 ---
 
